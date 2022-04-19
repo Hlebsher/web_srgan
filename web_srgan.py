@@ -1,2 +1,3 @@
 import streamlit as st
-st.write('darova')
+st.slider('x')
+st.write(x,' ',x*x)
