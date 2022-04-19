@@ -1,2 +1,2 @@
 import streamlit as st
-st.wreti('darova')
+st.write('darova')
